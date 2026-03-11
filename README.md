@@ -27,7 +27,8 @@ Ambos módulos se comunican mediante una base de datos SQLite centralizada, perm
 ### 🖥️ Interfaz Unificada
 - Panel con pestañas para gestión centralizada
 - Vista intuitiva del estado del estacionamiento
-- Diseño responsive con PyQt5
+- Pagina Web para gestión de estacionamientos y accesos vehiculares
+- Aplicación Móvil para la reserva de estacionamientos
 
 ### 🔍 Tecnologías Avanzadas
 - **Detección Dual YOLOv11**: Modelos separados para vehículos/placas y espacios
@@ -83,7 +84,7 @@ graph TD
 ## 💻 Requisitos Técnicos
 
 - Python 3.8+
-- PyQt5
+- Google Colab
 - OpenCV
 - PaddleOCR
 - YOLOv11
