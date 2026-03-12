@@ -48,7 +48,7 @@ Ambos módulos se comunican mediante una base de datos SQLite centralizada, perm
 
 ## 🏛️ Arquitectura del Sistema
 
-<img src="images/Esquema.png" alt="ResiPark Logo" width="200"/>
+<img src="images/Esquema.png" alt="ResiPark Logo"/>
 
 1. **Pestaña de Control de Acceso**
    - Flujo de trabajo:
