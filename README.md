@@ -77,7 +77,7 @@ Ambos módulos se comunican mediante una base de datos SQLite centralizada, perm
 - Python 3.8+
 - Google Colab
 - OpenCV
-- PaddleOCR
+- Florence-V2 OCR
 - YOLOv11
 - SQLite3
 
