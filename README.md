@@ -48,16 +48,7 @@ Ambos módulos se comunican mediante una base de datos SQLite centralizada, perm
 
 ## 🏛️ Arquitectura del Sistema
 
-```mermaid
-graph TD
-    A[Interfaz Principal] --> B[Control de Acceso]
-    A --> C[Monitoreo]
-    B --> D[Base de Datos SQLite]
-    C --> D
-    B --> E[YOLOv11 - Detección Vehículos/Placas]
-    C --> F[YOLOv11 - Detección Espacios]
-    B --> G[PaddleOCR]
-```
+<img src="images/Esquema.png" alt="ResiPark Logo" width="200"/>
 
 1. **Pestaña de Control de Acceso**
    - Flujo de trabajo:
